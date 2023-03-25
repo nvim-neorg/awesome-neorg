@@ -22,6 +22,8 @@ much more.
 - [norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [tree-sitter-norg](https://github.com/nvim-neorg/tree-sitter-norg) - A TreeSitter parser for the Neorg File Format.
 - [tree-sitter-norg-meta](https://github.com/nvim-neorg/tree-sitter-norg-meta) - A TreeSitter parser for Neorg's `document.metadata` tag.
+- [Norg.jl](https://github.com/Klafyvel/Norg.jl/) - A Julia parser for the Norg format.
+- [norganic](https://github.com/Klafyvel/norganic/) - The solvent-free Norg compiler.
 
 ## Integrations
 
