@@ -16,6 +16,7 @@ much more.
 - [Integrations](#integrations)
 - [Neovim Modules](#neovim-modules)
 - [Notes Collection](#notes-collection)
+- [Resources](#resources)
 
 ## Parsers
 
@@ -38,3 +39,7 @@ much more.
 ## Notes Collection
 
 - [Library of Norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - This repository aims to be a monolithic collection of notes about any topic, written in the `.norg` file format.
+
+## Resources
+
+- [Norg Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
