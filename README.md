@@ -30,11 +30,14 @@ much more.
 
 - [neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) - Telescope.nvim integration for Neorg.
 - [nixpkgs-neorg-overlay](https://github.com/nvim-neorg/nixpkgs-neorg-overlay) - Nixpkgs overlay that gives Nix users access to unstable versions of Neorg and its associated projects.
+- [neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior) - Taskwarrior integration into neorg.
 
 ## Neovim Modules
 
 - [Neorg Contexts](https://github.com/max397574/neorg-contexts) - A neorg module that will display the headings you're currently inside at the top of the buffer.
 - [Neorg Kanban](https://github.com/max397574/neorg-kanban) - A neorg module that will allow you to display your gtd tasks in kanban-like floating windows.
+- [Neorg Jupyter](https://github.com/tamton-aquib/neorg-jupyter) - A neorg module to work with jupyter notebooks inside neorg.
+- [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
 
 ## Notes Collection
 
@@ -43,3 +46,5 @@ much more.
 ## Resources
 
 - [Norg Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
+- [From No Org to Neorg](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa) - Youtube video series from the author.
+- [Extending Neorg](https://www.youtube.com/playlist?list=PLxpY86LRR3B0rtOBjXAsq1XnsOt4m4owu) - Youtube video series to build custom modules.
