@@ -37,6 +37,7 @@ much more.
 - [Neorg Contexts](https://github.com/max397574/neorg-contexts) - A neorg module that will display the headings you're currently inside at the top of the buffer.
 - [Neorg Kanban](https://github.com/max397574/neorg-kanban) - A neorg module that will allow you to display your gtd tasks in kanban-like floating windows.
 - [Neorg Jupyter](https://github.com/tamton-aquib/neorg-jupyter) - A neorg module to work with jupyter notebooks inside neorg.
+- [Neorg Templates](https://github.com/pysan3/neorg-templates) - A neorg module to create templates for norg file with dynamic values via LuaSnip.
 - [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
 
