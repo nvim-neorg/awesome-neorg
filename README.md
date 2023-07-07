@@ -27,7 +27,7 @@ much more.
 - [norganic](https://github.com/Klafyvel/norganic/) - The solvent-free Norg compiler.
 
 ## Integrations
-
+- [neorg-figlet-module](https://github.com/madskjeldgaard/neorg-figlet-module) - Figlet integration for Neorg
 - [neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) - Telescope.nvim integration for Neorg.
 - [nixpkgs-neorg-overlay](https://github.com/nvim-neorg/nixpkgs-neorg-overlay) - Nixpkgs overlay that gives Nix users access to unstable versions of Neorg and its associated projects.
 - [neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior) - Taskwarrior integration into neorg.
