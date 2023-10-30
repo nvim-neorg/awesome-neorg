@@ -40,6 +40,7 @@ much more.
 - [Neorg Templates](https://github.com/pysan3/neorg-templates) - A neorg module to create templates for norg file with dynamic values via LuaSnip.
 - [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
+- [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
 
 ## Notes Collection
 
