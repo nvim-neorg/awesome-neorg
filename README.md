@@ -42,6 +42,7 @@ much more.
 - [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
 - [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
+- [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
 
 ## Notes Collection
 
