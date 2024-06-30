@@ -44,6 +44,7 @@ much more.
 - [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
 - [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
+- [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Potentially more LSP-like features in the future.
 
 ## Notes Collection
 
