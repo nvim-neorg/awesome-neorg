@@ -44,7 +44,8 @@ much more.
 - [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
 - [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
-- [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Potentially more LSP-like features in the future.
+- [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Serves as a completion source, and can complete categories (when used with `neorg-se`).
+- [Neorg SE](https://github.com/benlubas/neorg-interim-ls) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
 
 ## Notes Collection
 
@@ -54,4 +55,8 @@ much more.
 
 - [Norg Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
 - [From No Org to Neorg](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa) - Youtube video series from the author.
+
+### Developer Resources
+
+- [Neorg Module Tutorial](https://github.com/benlubas/neorg-module-tutorial) - Written tutorial that goes over the basics of the modules system, and how to create a new core/external module.
 - [Extending Neorg](https://www.youtube.com/playlist?list=PLxpY86LRR3B0rtOBjXAsq1XnsOt4m4owu) - Youtube video series to build custom modules.
