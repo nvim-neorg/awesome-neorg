@@ -45,7 +45,7 @@ much more.
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
 - [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
 - [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Serves as a completion source, and can complete categories (when used with `neorg-se`).
-- [Neorg SE](https://github.com/benlubas/neorg-interim-ls) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
+- [Neorg SE](https://github.com/benlubas/neorg-se) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
 - [Neorg colors](https://github.com/opipoy/neorg-colors) - a really simple module that allows you to change the colors of text
 - [Neorg Worklog](https://github.com/bottd/neorg-worklog) - A neorg module that logs the files you work on in your daily journal.
 
