@@ -25,6 +25,7 @@ much more.
 - [tree-sitter-norg-meta](https://github.com/nvim-neorg/tree-sitter-norg-meta) - A TreeSitter parser for Neorg's `document.metadata` tag.
 - [Norg.jl](https://github.com/Klafyvel/Norg.jl/) - A Julia parser for the Norg format.
 - [norganic](https://github.com/Klafyvel/norganic/) - The solvent-free Norg compiler.
+- [rust-norg](https://github.com/nvim-neorg/rust-norg) - A robust parser for Norg for tools that don't use tree-sitter.
 - [minorg](https://github.com/pysan3/minorg) - MyNorg: `pandoc` to `norg` converter written in nim to import all *my* notes.
 
 ## Integrations
