@@ -27,6 +27,7 @@ much more.
 - [norganic](https://github.com/Klafyvel/norganic/) - The solvent-free Norg compiler.
 - [rust-norg](https://github.com/nvim-neorg/rust-norg) - A robust parser for Norg for tools that don't use tree-sitter.
 - [minorg](https://github.com/pysan3/minorg) - MyNorg: `pandoc` to `norg` converter written in nim to import all *my* notes.
+- [norgmill](https://github.com/hardfau1t/norgmill) - converts `.norg` files into html and serves files over http.
 
 ## Integrations
 - [neorg-figlet-module](https://github.com/madskjeldgaard/neorg-figlet-module) - Figlet integration for Neorg
