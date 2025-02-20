@@ -49,6 +49,7 @@ much more.
 - [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Serves as a completion source, and can complete categories (when used with `neorg-se`).
 - [Neorg SE](https://github.com/benlubas/neorg-se) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
 - [Neorg colors](https://github.com/opipoy/neorg-colors) - a really simple module that allows you to change the colors of text
+- [Neorg Archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
 - [Neorg Worklog](https://github.com/bottd/neorg-worklog) - A neorg module that logs the files you work on in your daily journal.
 - [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
 
