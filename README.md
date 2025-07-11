@@ -35,6 +35,7 @@ much more.
 - [nixpkgs-neorg-overlay](https://github.com/nvim-neorg/nixpkgs-neorg-overlay) - Nixpkgs overlay that gives Nix users access to unstable versions of Neorg and its associated projects.
 - [neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior) - Taskwarrior integration into neorg.
 - [neorg-fzflua](https://github.com/kev-cao/neorg-fzflua) - Fzf-lua integration for Neorg.
+- [vite-plugin-norg](https://github.com/bottd/vite-plugin-norg) - Vite plugin for rendering `.norg` files in the browser
 
 ## Neorg Modules
 
