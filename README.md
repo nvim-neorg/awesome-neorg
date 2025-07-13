@@ -39,26 +39,26 @@ much more.
 
 ## Neorg Modules
 
-- [Neorg Contexts](https://github.com/max397574/neorg-contexts) - A neorg module that will display the headings you're currently inside at the top of the buffer.
-- [Neorg Kanban](https://github.com/max397574/neorg-kanban) - A neorg module that will allow you to display your gtd tasks in kanban-like floating windows.
-- [Neorg Jupyter](https://github.com/tamton-aquib/neorg-jupyter) - A neorg module to work with jupyter notebooks inside neorg.
-- [Neorg Templates](https://github.com/pysan3/neorg-templates) - A neorg module to create templates for norg file with dynamic values via LuaSnip.
-- [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
-- [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
-- [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
-- [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
-- [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
-- [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Serves as a completion source, and can complete categories (when used with `neorg-se`).
-- [Neorg SE](https://github.com/benlubas/neorg-se) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
-- [Neorg colors](https://github.com/opipoy/neorg-colors) - a really simple module that allows you to change the colors of text
 - [Neorg Archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
-- [Neorg Worklog](https://github.com/bottd/neorg-worklog) - A neorg module that logs the files you work on in your daily journal.
-- [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
+- [Neorg Bookmarks](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way.
+- [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
+- [Neorg colors](https://github.com/opipoy/neorg-colors) - a really simple module that allows you to change the colors of text
+- [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
+- [Neorg Contexts](https://github.com/max397574/neorg-contexts) - A neorg module that will display the headings you're currently inside at the top of the buffer.
 - [Neorg Dew](https://github.com/setupyourskills/neorg-dew) - A Neorg modules ecosystem built around my personal note-taking workflow.
     - [dew CatnGo](https://github.com/setupyourskills/dew-catngo) — Quick and simple note picker focused on category-based selection powered by [neorg-query](https://github.com/benlubas/neorg-query)
     - [dew Crumb](https://github.com/setupyourskills/dew-crumb) — Displays breadcrumbs from headings in the winbar.
     - [dew Highlights](https://github.com/setupyourskills/dew-highlights) — Custom Tree-sitter highlights in `.norg` files.
     - [dew SmartLink](https://github.com/setupyourskills/dew-smartlink) — Automatically inserts a formatted link using the clipboard URL and fetched page title.
+- [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
+- [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
+- [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
+- [Neorg Interim LS](https://github.com/benlubas/neorg-interim-ls) - Provide refactoring functionality through neovim's LSP interface. Serves as a completion source, and can complete categories (when used with `neorg-se`).
+- [Neorg Jupyter](https://github.com/tamton-aquib/neorg-jupyter) - A neorg module to work with jupyter notebooks inside neorg.
+- [Neorg Kanban](https://github.com/max397574/neorg-kanban) - A neorg module that will allow you to display your gtd tasks in kanban-like floating windows.
+- [Neorg SE](https://github.com/benlubas/neorg-se) - The power of a search engine for your Neorg workspace. Search notes, titles, categories, and more.
+- [Neorg Templates](https://github.com/pysan3/neorg-templates) - A neorg module to create templates for norg file with dynamic values via LuaSnip.
+- [Neorg Worklog](https://github.com/bottd/neorg-worklog) - A neorg module that logs the files you work on in your daily journal.
 
 ## Notes Collection
 
