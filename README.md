@@ -46,10 +46,10 @@ much more.
 - [Neorg Conceal Wrap](https://github.com/benlubas/neorg-conceal-wrap) - Hard wrap text based on its concealed width, instead of its unconcealed width.
 - [Neorg Contexts](https://github.com/max397574/neorg-contexts) - A neorg module that will display the headings you're currently inside at the top of the buffer.
 - [Neorg Dew](https://github.com/setupyourskills/neorg-dew) - A Neorg modules ecosystem built around my personal note-taking workflow.
-    - [dew CatnGo](https://github.com/setupyourskills/dew-catngo) — Quick and simple note picker focused on category-based selection powered by [neorg-query](https://github.com/benlubas/neorg-query)
-    - [dew Crumb](https://github.com/setupyourskills/dew-crumb) — Displays breadcrumbs from headings in the winbar.
-    - [dew Highlights](https://github.com/setupyourskills/dew-highlights) — Custom Tree-sitter highlights in `.norg` files.
-    - [dew SmartLink](https://github.com/setupyourskills/dew-smartlink) — Automatically inserts a formatted link using the clipboard URL and fetched page title.
+    - [Dew CatnGo](https://github.com/setupyourskills/dew-catngo) — Quick and simple note picker focused on category-based selection powered by [neorg-query](https://github.com/benlubas/neorg-query)
+    - [Dew Crumb](https://github.com/setupyourskills/dew-crumb) — Displays breadcrumbs from headings in the winbar.
+    - [Dew Highlights](https://github.com/setupyourskills/dew-highlights) — Custom Tree-sitter highlights in `.norg` files.
+    - [Dew Smart Link](https://github.com/setupyourskills/dew-smartlink) — Automatically inserts a formatted link using the clipboard URL and fetched page title.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
 - [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
