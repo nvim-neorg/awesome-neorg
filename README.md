@@ -55,9 +55,10 @@ much more.
 - [Neorg Worklog](https://github.com/bottd/neorg-worklog) - A neorg module that logs the files you work on in your daily journal.
 - [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
 - [Neorg Dew](https://github.com/setupyourskills/neorg-dew) - A Neorg modules ecosystem built around my personal note-taking workflow.
-    - [dew-crumb](https://github.com/setupyourskills/dew-crumb) — Displays breadcrumbs from headings in the winbar.
-    - [dew-catngo](https://github.com/setupyourskills/dew-catngo) — Quick and simple note picker focused on category-based selection powered by [neorg-query](https://github.com/benlubas/neorg-query) (many thanks to @twonine. :wink: )
-    - [dew-smartlink](https://github.com/setupyourskills/dew-smartlink) — Automatically inserts a formatted link using the clipboard URL and fetched page title.
+    - [dew CatnGo](https://github.com/setupyourskills/dew-catngo) — Quick and simple note picker focused on category-based selection powered by [neorg-query](https://github.com/benlubas/neorg-query)
+    - [dew Crumb](https://github.com/setupyourskills/dew-crumb) — Displays breadcrumbs from headings in the winbar.
+    - [dew Highlights](https://github.com/setupyourskills/dew-highlights) — Custom Tree-sitter highlights in `.norg` files.
+    - [dew SmartLink](https://github.com/setupyourskills/dew-smartlink) — Automatically inserts a formatted link using the clipboard URL and fetched page title.
 
 ## Notes Collection
 
