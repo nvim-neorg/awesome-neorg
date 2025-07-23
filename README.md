@@ -52,6 +52,7 @@ much more.
     - [Dew Highlights](https://github.com/setupyourskills/dew-highlights) - Custom Tree-sitter highlights in `.norg` files.
     - [Dew Random Quote](https://github.com/setupyourskills/dew-randomquote) - Inserts a randomly fetched quote into the current buffer
     - [Dew Smart Link](https://github.com/setupyourskills/dew-smartlink) - Automatically inserts a formatted link using the clipboard URL and fetched page title.
+    - [Dew Transclude](https://github.com/setupyourskills/dew-transclude) - Automatically embeds the content of a linked note using a `!` prefix before internal links, and removes it when the prefix is deleted.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
 - [Neorg Extras](https://github.com/juniorsundar/neorg-extras) - An neorg-agenda and neorg-roam add-on.
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
